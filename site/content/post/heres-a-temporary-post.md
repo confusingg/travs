@@ -13,6 +13,8 @@ Oslo is beautiful, clean, friendly, diverse, cold, expensive (to non-Norwegians)
 
 ### Not long enough, I'd like to read some more
 
+Alright. Here's the basic stuff.
+
 #### How to get there
 
 Oslo's main airport, Gardermoen, is about 25 minutes away from the city centre by train. 

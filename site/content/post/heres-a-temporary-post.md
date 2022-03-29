@@ -18,15 +18,15 @@ Alright. Here's the basic stuff.
 
 ##### Flying into Oslo
 
-Oslo's main airport (OSL) is in [Gardermoen](https://avinor.no/en/airport/oslo-airport/), and most large European airlines fly there. A few also fly to [Sandefjord](https://www.torp.no/) (TRF) airport which is more than 100km away from Oslo. While Wikipedia's airlines and destinations lists for [OSL](https://en.wikipedia.org/wiki/Oslo_Airport,_Gardermoen#Airlines_and_destinations) and [TRF](https://en.wikipedia.org/wiki/Sandefjord_Airport,_Torp#Airlines_and_destinations) can be useful, the basic point is that travel to Oslo is 
+Oslo's main airport (OSL) is in [Gardermoen](https://avinor.no/en/airport/oslo-airport/), and most large European airlines fly there. A few also fly to [Sandefjord](https://www.torp.no/) (TRF) airport which is more than 100km away from Oslo and thus inconvenient. While Wikipedia's airlines and destinations lists for [OSL](https://en.wikipedia.org/wiki/Oslo_Airport,_Gardermoen#Airlines_and_destinations) and [TRF](https://en.wikipedia.org/wiki/Sandefjord_Airport,_Torp#Airlines_and_destinations) can be useful, the basic point is that travel to Oslo is not that difficult.
 
+##### From OSL into the city
 
+There's a service called [Flytoget](https://flytoget.no/) which offers overpriced trains that are only a little bit quicker than local trains, so ignore it. Download the app [VY](https://www.vy.no/en/app) and buy a local ticket there, 
 
-There's a service called [Flytoget](https://flytoget.no/) which offers overpriced trains that are only a little bit quicker than local trains, so ignore it.
+##### Other modes
 
-##### Sea
-
-Ferries arrive into Oslo from Denmark with [DFDS](https://www.dfds.com/en) and Germany with [Color Line](https://www.colorline.de/). It's slow, so only do this if you don't like to fly.
+Ferries arrive into Oslo from Denmark with [DFDS](https://www.dfds.com/en) and Germany with [Color Line](https://www.colorline.de/). It's slow, so only do this if you don't like to fly. Norway has a decent railway network with connections all over  to places like Gothenburg in Sweden as well. 
 
 ##### Land
 
